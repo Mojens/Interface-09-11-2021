@@ -25,5 +25,5 @@ public class Person implements Comparable { //Man kan skrive således public cla
       }
     }
     return 0; //Ligmed 0
-  }
+  }//Uden denne compareTo Metode så kan man ikke bruge Collections.Sort
 }
