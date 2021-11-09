@@ -1,4 +1,4 @@
-package PersonComparableSort;
+package PersonSort;
 
 import java.util.ArrayList;
 import java.util.Collections;

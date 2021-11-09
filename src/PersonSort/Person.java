@@ -1,6 +1,4 @@
-package PersonComparableSort;
-
-import java.util.Objects;
+package PersonSort;
 
 public class Person implements Comparable { //Man kan skrive således public class Person implements Comparable<Person>
   //Så slipper vi for at lave en instance of længere ned i compareTo
