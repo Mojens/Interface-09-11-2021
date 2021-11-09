@@ -5,7 +5,7 @@ public class DriveableMain {
   public static void main(String[] args) {
     //fordi at det er Classes der er implementet fra en interface, så kalder vi på Interface først, derefter kald vi
     //Objektet, og så er at vi intansier Selve classen.
-    
+
     Driveable car = new Car();
     Driveable motorcycle = new Motorcycle();
     Driveable truck = new Truck();

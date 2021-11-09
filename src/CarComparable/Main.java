@@ -2,11 +2,13 @@ package CarComparable;
 
 public class Main {
   public static void main(String[] args) {
+
 //Laver 4 forskellige Car objekter med forskellige Type
     Comparable car1 = new Car("Familiy Car");
     Comparable car2 = new Car("Sports Car");
     Comparable car3 = new Car("Cool Car");
     Comparable car4 = new Car("Familiy Car");
+
 //Laver 3 forskellige motorcykler med forskellige Wheels
     Comparable motorcycle1 = new Motorcycle("Big");
     Comparable motorcycle2 = new Motorcycle("Small");
